@@ -2,7 +2,7 @@
 
 ## Description
 This project is a Python-based TODO List application implemented using
-Stack and Queue data structures as part of a Data Structures and Algorithms minor project.
+Stack and Queue data structures.
 
 ## Data Structures Used
 - Queue: To manage pending tasks (FIFO)
