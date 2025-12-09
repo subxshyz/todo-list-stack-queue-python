@@ -1,3 +1,7 @@
+# TODO List Application using Stack and Queue
+# Stack: Used to store completed tasks (LIFO)
+# Queue: Used to store pending tasks (FIFO)
+# Language: Python
 from collections import deque
 
 todo_queue = deque()
